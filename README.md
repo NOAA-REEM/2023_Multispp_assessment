@@ -1,10 +1,10 @@
 
 #### Repo and data files maintained by:
--   Kirstin Holsman |
-    Alaska Fisheries Science Center
-    NOAA Fisheries, Seattle WA
-    **<kirstin.holsman@noaa.gov>**
-    *Last updated: Aug 12, 2020*
+-   Kirstin Holsman
+-   Alaska Fisheries Science Center
+-     AA Fisheries, Seattle WA
+- **<kirstin.holsman@noaa.gov>**
+- *Last updated: Aug 12, 2020*
 
 This is the NOAA-REEM Team repository for Kirstin Holsman. Public code and projects will be shared here. For more information see Kirstin's GitHub at https://github.com/kholsman
 
