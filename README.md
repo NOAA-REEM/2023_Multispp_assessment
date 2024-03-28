@@ -2,7 +2,7 @@
 #### Repo and data files maintained by:
 -   Kirstin Holsman
 -   Alaska Fisheries Science Center
--     AA Fisheries, Seattle WA
+-   NOAA Fisheries, Seattle WA
 - **<kirstin.holsman@noaa.gov>**
 - *Last updated: Aug 12, 2020*
 
